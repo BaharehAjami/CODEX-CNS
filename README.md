@@ -1,5 +1,5 @@
 # CODEX-CNS
-Code accompanying the manuscript "Spatial single-cell proteomic analysis by multiplexed imaging enables identification of myeloid cell heterogeneity in Alzheimer’s disease human brain"
+Code accompanying the manuscript "Spatial proteomic analysis enables identification of microenvironment-dependent myeloid cell heterogeneity in Alzheimer’s disease human brain"
 
 
 To re-run the analysis: <br />
