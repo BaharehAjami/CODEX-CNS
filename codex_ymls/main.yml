@@ -1,4 +1,4 @@
-name: /home/groups/AjamiLab/Brownell/conda_envs/codex_final_rapids_superclone2
+name: /home/groups/AjamiLab/Brownell/conda_envs/codex_final_rapids_superclone2_CLONE2
 channels:
   - conda-forge
   - defaults
@@ -357,7 +357,6 @@ dependencies:
   - s2n=1.0.10=h9b69904_0
   - scanpy=1.9.1=pyhd8ed1ab_0
   - scikit-image=0.19.3=py38h8f669ce_2
-  - scikit-learn=0.24.2=py38hacb3eff_1
   - scipy=1.9.1=py38h32ae08f_0
   - seaborn=0.12.2=hd8ed1ab_0
   - seaborn-base=0.12.2=pyhd8ed1ab_0
@@ -435,12 +434,21 @@ dependencies:
   - zlib-ng=2.0.7=h0b41bf4_0
   - zstd=1.5.2=h3eb15da_6
   - pip:
+      - affine==2.4.0
+      - annoy==1.17.3
+      - bbknn==1.6.0
+      - cython==3.0.12
+      - et-xmlfile==2.0.0
       - geojson==3.1.0
       - igraph==0.10.8
       - leidenalg==0.10.1
       - louvain==0.8.1
+      - openpyxl==3.1.5
+      - rasterio==1.3.11
+      - scikit-learn==1.3.2
+      - snuggs==1.4.7
       - texttable==1.7.0
       - translationstring==1.4
       - treelite-runtime==2.3.0
       - zope-interface==6.0
-prefix: /home/groups/AjamiLab/Brownell/conda_envs/codex_final_rapids_superclone2
+prefix: /home/groups/AjamiLab/Brownell/conda_envs/codex_final_rapids_superclone2_CLONE2
