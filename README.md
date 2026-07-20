@@ -17,6 +17,7 @@ Image Data:
 - <a href="https://zenodo.org/records/20725083">https://zenodo.org/records/20725083</a>
 - <a href="https://zenodo.org/records/20706336">https://zenodo.org/records/20706336</a>
 - <a href="https://zenodo.org/records/20726163">https://zenodo.org/records/20726163</a>
+
 Segmentation Data:
 - <a href="https://zenodo.org/records/21342581">https://zenodo.org/records/21342581</a>
 - <a href="https://zenodo.org/records/21347021">https://zenodo.org/records/21347021</a>
@@ -28,6 +29,7 @@ VALIDATION DATASET:
 Image Data:
 - <a href="https://zenodo.org/records/18878506">https://zenodo.org/records/18878506</a>
 - <a href="https://zenodo.org/records/18903415">https://zenodo.org/records/18903415</a>
+
 Segmentation Data:
 - <a href="https://zenodo.org/records/21419233">https://zenodo.org/records/21419233</a>
 - <a href="https://zenodo.org/records/21419484">https://zenodo.org/records/21419484</a>
