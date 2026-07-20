@@ -12,7 +12,8 @@ Enviroment 'scimap.yml' is used to run 'Scimap_centroids.ipynb' <br />
 Environment 'scfates.yml' is used to run portions of 'fabian_coordinate_analysis_arbclustering.ipynb' using the package scFates <br />
 Environment 'main.yml' is used for running all other notebooks
 
-MAIN DATASET:
+<b>MAIN DATASET:</b>
+
 Image Data:
 - <a href="https://zenodo.org/records/20725083">https://zenodo.org/records/20725083</a>
 - <a href="https://zenodo.org/records/20706336">https://zenodo.org/records/20706336</a>
@@ -25,7 +26,8 @@ Segmentation Data:
 - <a href="https://zenodo.org/records/21417215">https://zenodo.org/records/21417215</a>
 - <a href="https://zenodo.org/records/21419095">https://zenodo.org/records/21419095</a>
 
-VALIDATION DATASET:
+<b>VALIDATION DATASET:</b>
+
 Image Data:
 - <a href="https://zenodo.org/records/18878506">https://zenodo.org/records/18878506</a>
 - <a href="https://zenodo.org/records/18903415">https://zenodo.org/records/18903415</a>
