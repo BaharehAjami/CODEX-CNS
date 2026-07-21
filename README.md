@@ -4,6 +4,8 @@ Code accompanying the manuscript "Spatial proteomic analysis in human Alzheimerâ
 Publication DOI: https://doi.org/10.1038/s41593-026-02267-3
 
 
+
+
 To re-run the analysis: <br />
 Download image data into 'image_data'<br />
 Download segmentation data into 'segmentation_files' <br />
