@@ -1,5 +1,7 @@
 # CODEX-CNS
-Code accompanying the manuscript "Spatial proteomic analysis enables identification of microenvironment-dependent myeloid cell heterogeneity in Alzheimer’s disease human brain"
+Code accompanying the manuscript "Spatial proteomic analysis in human Alzheimer’s disease brains enables identification of microenvironment-dependent microglial cell states"
+
+Publication DOI: https://doi.org/10.1038/s41593-026-02267-3
 
 
 To re-run the analysis: <br />
